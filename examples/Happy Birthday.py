@@ -2,7 +2,7 @@ import turtle
 
 turtle.color('blue')
 style = ('Arial', 50, 'italic')
-turtle.write('Happy Birthday!\nTo you my friend', font=style, align='center')
+turtle.write('Happy Birthday!\nDuffo', font=style, align='center')
 x = ['red','green', 'yellow', 'pink']
 turtle.right(75)
 turtle.color('violet')
